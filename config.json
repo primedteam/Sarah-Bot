@@ -1,0 +1,73 @@
+{
+  "bot": {
+    "token": "",
+    "prefix": "-",
+    "guild": "",
+    "activity": {
+      "name": "something",
+      "type": "WATCHING"
+    }
+  },
+  "supportMsg": "",
+  "channels": {
+    "staff-logs": "",
+    "welcome": "",
+    "change-logs": "",
+    "system": "",
+    "tickets": "",
+    "ticket-message-logs": "",
+    "ticket-announcements": ""
+  },
+  "category": {
+    "support": ""
+  },
+  "mysql": {
+    "db": "",
+    "ip": "",
+    "username": "",
+    "password": ""
+  },
+  "colors": {
+    "error": "#fd3c59",
+    "missing": "#ff673d",
+    "complete": "#3ec960",
+    "prompt": "#52d4c8"
+  },
+  "roles": {
+    "executives": "",
+    "genmanager": "",
+    "staff": "",
+    "partner": "",
+    "client": "",
+    "member": "",
+    "guest": "",
+    "everyone": ""
+  },
+  "specialusers": [
+    ""
+  ],
+  "supportReasons": [
+    {
+      "message": "Abuse Reports",
+      "emoji": "👤",
+      "type": "ticket-report-abuse"
+    },
+    {
+      "message": "test",
+      "answer": "testtest test test ",
+      "emoji": "0️⃣",
+      "type": "question-test"
+    }
+  ],
+  "checkBox": "✅",
+  "wrongBox": "❌",
+  "info": {
+    "nameservers": "",
+    "panel": "",
+    "website": "",
+    "mysql": "",
+    "defaultRoles": [
+      ""
+    ]
+  }
+}

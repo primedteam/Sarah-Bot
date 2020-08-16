@@ -1,0 +1,30 @@
+{
+  "name": "primedhost",
+  "version": "2.5.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dream-cake/PrimedHosting-Sarah.git"
+  },
+  "author": "Spooder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dream-cake/PrimedHosting-Sarah/issues"
+  },
+  "homepage": "https://github.com/Dream-cake/PrimedHosting-Sarah#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "date-and-time": "^0.10.0",
+    "discord.js": "github:discordjs/discord.js",
+    "fs": "0.0.1-security",
+    "fs-extra": "^8.1.0",
+    "moment": "^2.25.3",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.6.0",
+    "path": "^0.12.7"
+  }
+}
