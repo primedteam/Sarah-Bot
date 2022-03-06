@@ -1,5 +1,5 @@
 # Primed Hosting Sarah Bot
-The Bot Primed Hosting has created.
+The Bot Primed Hosting has created..
 
 ## How to setup
 1. Edit config.json
